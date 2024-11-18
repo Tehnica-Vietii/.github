@@ -1,4 +1,4 @@
-INSERT_PICTURE_HERE
+![Tehnica-Vietii-Logo](Tehnica-Vietii.png "Tehnica Vietii")
 
 ## **Life Technique**
 
